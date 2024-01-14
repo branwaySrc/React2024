@@ -41,7 +41,6 @@ export const UseEffectBasics = ({}: DemoProps) => {
     };
   }, [otherCount]);
 
-
   return (
     <div className={counter.container}>
       <div className={counter.box}>
