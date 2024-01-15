@@ -2,7 +2,7 @@
 
 "use client";
 import { useState, useEffect } from "react";
-import { Styles } from "@/use-effect/styles";
+import { Styles } from "@/styles";
 
 interface DemoProps {}
 
